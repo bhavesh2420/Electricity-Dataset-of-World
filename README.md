@@ -12,7 +12,6 @@ World Energy Consumption - Exploratory Data Analysis and Prediction ( Python Imp
 3.1: India Energy Consumption
 
 Training Accuracy : 0.9305094619818565
-
 Testing Accuracy : 0.958822379530898
 
 
